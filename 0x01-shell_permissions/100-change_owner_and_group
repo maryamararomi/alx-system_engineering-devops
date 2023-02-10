@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod vincent chgrp staff
+chgrp -u vincent chgrp staff
