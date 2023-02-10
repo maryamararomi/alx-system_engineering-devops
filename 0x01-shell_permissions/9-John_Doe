@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod file 713 . 
+chmod 713 file . 
