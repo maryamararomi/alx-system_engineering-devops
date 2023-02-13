@@ -1,2 +1,2 @@
 #!/bin/bash
-$ touch /n "Hello,World"
+touch /n "Hello,World"
